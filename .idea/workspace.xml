@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="" />
+    <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_850.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_850.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -126,7 +132,7 @@
       <workItem from="1669181591098" duration="708000" />
       <workItem from="1669288060473" duration="32000" />
       <workItem from="1669527975331" duration="1064000" />
-      <workItem from="1677367145614" duration="1372000" />
+      <workItem from="1677367145614" duration="3405000" />
     </task>
     <servers />
   </component>
