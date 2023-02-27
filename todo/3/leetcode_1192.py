@@ -9,3 +9,46 @@ https://leetcode.com/problems/critical-connections-in-a-network/solutions/382632
  - 내 자식이 나보다 타임스탬프가 크다면 반드시 나를 통해서 지나가야하므로  (나, 그 자식)은 중요 연결이다.
 https://leetcode.com/problems/critical-connections-in-a-network/solutions/401340/clean-java-solution-with-explanation-great-question/?orderBy=most_votes
 '''
+from typing import List
+
+
+class Solution:
+    def __init__(self):
+        self.answer = []
+        self.time = []
+        self.graph = []
+        self.visit = []
+
+    def go(self, cur, par, timestamp):
+        self.visit[cur] = True
+        self.time[cur] = timestamp
+        current_timestamp = self.time[cur]
+        timestamp += 1
+        for child in self.graph[cur]:
+            if par == child:
+                continue
+            if not self.visit[child]:
+                self.go(child, cur, timestamp)
+            self.time[cur] = min(self.time[cur], self.time[child])
+            if current_timestamp < self.time[child]:
+                self.answer.append([cur, child])
+
+    def criticalConnections(self, n: int, connections: List[List[int]]) -> List[List[int]]:
+        self.time, self.graph, self.visit = [10000001] * n, [[] for _ in range(n)], [False] * n
+        for conn in connections:
+            st, ed = conn[0], conn[1]
+            self.graph[st].append(ed)
+            self.graph[ed].append(st)
+        self.go(0, -1, 0)
+        return self.answer
+
+
+if __name__ == '__main__':
+    solution = Solution()
+    n = 10
+    connections = [[1, 0], [2, 0], [3, 0], [4, 1], [5, 3], [6, 1], [7, 2], [8, 1], [9, 6], [9, 3], [3, 2], [4, 2],
+                   [7, 4], [6, 2], [8, 3], [4, 0], [8, 6], [6, 5], [6, 3], [7, 5], [8, 0], [8, 5], [5, 4], [2, 1],
+                   [9, 5], [9, 7], [9, 4], [4, 3]]
+    answer = solution.criticalConnections(n, connections)
+    for a, b in answer:
+        print("%d %d" % (a, b))
