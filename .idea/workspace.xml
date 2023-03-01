@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1192.py" beforeDir="false" afterPath="$PROJECT_DIR$/retry/leetcode_1192.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2509.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_2509.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1235.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_1235.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/retry" />
       <recent name="$PROJECT_DIR$/done" />
+      <recent name="$PROJECT_DIR$/retry" />
     </key>
   </component>
   <component name="RunManager" selected="Python.leetcode_2509">
@@ -130,7 +129,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/3/leetcode_2509.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/done/leetcode_2509.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,6 +212,8 @@
       <workItem from="1677452983404" duration="4337000" />
       <workItem from="1677638437866" duration="817000" />
       <workItem from="1677639258987" duration="693000" />
+      <workItem from="1677639956408" duration="179000" />
+      <workItem from="1677711341934" duration="854000" />
     </task>
     <servers />
   </component>
@@ -238,7 +239,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/todo/3/leetcode_2509.py</url>
+          <url>file://$PROJECT_DIR$/done/leetcode_2509.py</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
