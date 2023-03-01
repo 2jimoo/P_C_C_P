@@ -13,34 +13,8 @@ from typing import List
 
 
 class Solution:
-    def __init__(self):
-        self.answer = []
-        self.time = []
-        self.graph = []
-        self.visit = []
-
-    def go(self, cur, par, timestamp):
-        self.visit[cur] = True
-        self.time[cur] = timestamp
-        current_timestamp = self.time[cur]
-        timestamp += 1
-        for child in self.graph[cur]:
-            if par == child:
-                continue
-            if not self.visit[child]:
-                self.go(child, cur, timestamp)
-            self.time[cur] = min(self.time[cur], self.time[child])
-            if current_timestamp < self.time[child]:
-                self.answer.append([cur, child])
-
     def criticalConnections(self, n: int, connections: List[List[int]]) -> List[List[int]]:
-        self.time, self.graph, self.visit = [10000001] * n, [[] for _ in range(n)], [False] * n
-        for conn in connections:
-            st, ed = conn[0], conn[1]
-            self.graph[st].append(ed)
-            self.graph[ed].append(st)
-        self.go(0, -1, 0)
-        return self.answer
+        return []
 
 
 if __name__ == '__main__':
