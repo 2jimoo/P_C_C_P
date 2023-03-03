@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1235.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_1235.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_1240.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +45,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/done" />
       <recent name="$PROJECT_DIR$/retry" />
+      <recent name="$PROJECT_DIR$/done" />
     </key>
   </component>
   <component name="RunManager" selected="Python.leetcode_2509">
@@ -213,7 +213,10 @@
       <workItem from="1677638437866" duration="817000" />
       <workItem from="1677639258987" duration="693000" />
       <workItem from="1677639956408" duration="179000" />
-      <workItem from="1677711341934" duration="854000" />
+      <workItem from="1677711341934" duration="1357000" />
+      <workItem from="1677755609443" duration="599000" />
+      <workItem from="1677798645589" duration="2148000" />
+      <workItem from="1677815421253" duration="934000" />
     </task>
     <servers />
   </component>
