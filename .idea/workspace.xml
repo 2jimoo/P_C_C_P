@@ -5,8 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/todo/3/0305_pccp_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0305_pccp_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0307_pccp_1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0307_pccp_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0308_pccp_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0308_pccp_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0309_pccp_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0309_pccp_2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0310_사라지는_발판.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0311_행렬과연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0312_123_떨어뜨리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0313_코딩테스트_공부.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0314_표병합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0315_등산코스_정하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0316_미로탈출_명령어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0317_표현가능한_이진트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0318_이모티콘_할인행사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0318_택배배달과_수거하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0319_양과늑대.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0319_양궁대회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0320_파괴되지_않은_건물.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0321_두_큐_합_같게_만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0322_주차요금계산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/3/0323_k진수에서_소수_개수_구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/3/leetcode_1240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retry/leetcode_1192.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/4/leetcode_1192.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retry/leetcode_1235.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/4/leetcode_1235.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retry/leetcode_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/4/leetcode_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retry/leetcode_410.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/4/leetcode_410.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/4/leetcode_1240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2050.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2065.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2068.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2246.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2246.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2321.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2321.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/3/leetcode_2421.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/5/leetcode_2421.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1411.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1411.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1478.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1478.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1691.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1691.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1776.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1776.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1793.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1793.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1866.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_1896.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_1896.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/4/leetcode_2014.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/6/leetcode_2014.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +58,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -32,25 +74,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/user/PycharmProjects/pythonProject/todo/3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/todo/3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/todo/4" />
+      <recent name="$PROJECT_DIR$/todo/3" />
       <recent name="$PROJECT_DIR$/retry" />
+      <recent name="$PROJECT_DIR$/todo/5" />
       <recent name="$PROJECT_DIR$/done" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetcode_2509">
-    <configuration name="boj_11501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0307_pccp_1_3">
+    <configuration name="0305_pccp_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +112,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/done/boj_11501.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/3/0305_pccp_1_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0305_pccp_1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/todo/3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/3/0305_pccp_1_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0307_pccp_1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/todo/3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/3/0307_pccp_1_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +200,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retry/leetcode_1192.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/4/leetcode_1192.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,57 +231,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_850" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/todo/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/done/leetcode_850.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="multi_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_processing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0307_pccp_1_3" />
+        <item itemvalue="Python.0305_pccp_1_2" />
+        <item itemvalue="Python.0305_pccp_1_1" />
         <item itemvalue="Python.leetcode_2509" />
         <item itemvalue="Python.leetcode_1192" />
-        <item itemvalue="Python.boj_11501" />
-        <item itemvalue="Python.leetcode_850" />
-        <item itemvalue="Python.multi_processing" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +266,8 @@
       <workItem from="1677755609443" duration="599000" />
       <workItem from="1677798645589" duration="2148000" />
       <workItem from="1677815421253" duration="934000" />
+      <workItem from="1677831495406" duration="188000" />
+      <workItem from="1677974972515" duration="6343000" />
     </task>
     <servers />
   </component>
@@ -246,15 +297,28 @@
           <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/todo/3/0307_pccp_1_3.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/todo/3/0307_pccp_1_3.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$leetcode_2509.coverage" NAME="leetcode_2509 커버리지 결과" MODIFIED="1677639889053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
+    <SUITE FILE_PATH="coverage/pythonProject$0305_pccp_1_2.coverage" NAME="0305_pccp_1_2 커버리지 결과" MODIFIED="1677979683942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
     <SUITE FILE_PATH="coverage/pythonProject$leetcode_1192.coverage" NAME="leetcode_1192 커버리지 결과" MODIFIED="1677456265260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
+    <SUITE FILE_PATH="coverage/pythonProject$0307_pccp_1_3.coverage" NAME="0307_pccp_1_3 커버리지 결과" MODIFIED="1677982543099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
     <SUITE FILE_PATH="coverage/pythonProject$multi_processing.coverage" NAME="multi_processing Coverage Results" MODIFIED="1669084467411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$leetcode_850.coverage" NAME="leetcode_850 커버리지 결과" MODIFIED="1677377091119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
     <SUITE FILE_PATH="coverage/pythonProject$aync_coroutine.coverage" NAME="aync_coroutine Coverage Results" MODIFIED="1669005769990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$boj_11501.coverage" NAME="boj_11501 커버리지 결과" MODIFIED="1677381113506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
+    <SUITE FILE_PATH="coverage/pythonProject$0305_pccp_1_1.coverage" NAME="0305_pccp_1_1 커버리지 결과" MODIFIED="1677978497829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/todo/3" />
   </component>
 </project>
