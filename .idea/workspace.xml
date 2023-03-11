@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/done/0310_사라지는_발판.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retry/게임이론_님게임_11868.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/3/0310_사라지는_발판.py" beforeDir="false" />
-    </list>
+    <list default="true" id="176c59c2-8025-4800-a796-a8bbbb672492" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +228,7 @@
       <workItem from="1678176443160" duration="589000" />
       <workItem from="1678316217677" duration="11109000" />
       <workItem from="1678350981943" duration="317000" />
-      <workItem from="1678407878690" duration="5385000" />
+      <workItem from="1678407878690" duration="6379000" />
     </task>
     <servers />
   </component>
