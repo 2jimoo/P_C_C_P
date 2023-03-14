@@ -26,15 +26,13 @@ def solution(alp, cop, problems):
 
     for i in range(alp, max_alp + 1):
         for j in range(cop, max_cop + 1):
-            if i == max_alp and j == max_cop:
-                return dp[i][j]
             for p in problems:
                 if p[0] > i or p[1] > j:
                     continue
                 next_alp = min(max_alp, i + p[2])
                 next_cop = min(max_cop, j + p[3])
                 dp[next_alp][next_cop] = min(dp[next_alp][next_cop], dp[i][j] + p[4])
-    return answer
+    return dp[max_alp][max_cop]
 
 
 def solution2(alp, cop, problems):
